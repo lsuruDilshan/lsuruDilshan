@@ -110,17 +110,9 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Isurudshanz&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
 
-</td>
-<td width="8" style="border: none; padding: 0;">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="transform: rotate(90deg); height: 100vh; object-fit: cover;">
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<div align="center">
-
-
-## 🐍 Contribution Snake
+## 🐍  &nbsp;Contribution Snake
 
 <div align="center">
   <picture>
@@ -129,6 +121,15 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Isurudshanz/Isurudshanz/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+</td>
+<td width="8" style="border: none; padding: 0;">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="transform: rotate(90deg); height: 100vh; object-fit: cover;">
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <!-- Bottom Border -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
