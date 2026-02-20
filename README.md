@@ -22,7 +22,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <h3 align="center">AI Assisted UI/UX Engineer | Inventing My own Path</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=isurudshanz&label=Profile%20views&color=0e75b6&style=flat" alt="isurudshanz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lsuruDilshan&label=Profile%20views&color=0e75b6&style=flat" alt="lsuruDilshan" /> </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI-Augmented+Software+Engineer+🚀;Product-Driven+System+Designer;Dashboard+%26+Field+Force+App+Creator+📊;React+%7C+Node.js+%7C+MongoDB+%7C+Flutter;Engineering+with+Intent+⚙️;Inventing+My+Own+Path+✨" alt="Typing SVG" />
@@ -82,7 +82,7 @@
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Isurudshanz&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lsuruDilshan&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -90,8 +90,8 @@
 ## 📈  &nbsp;GitHub Analytics:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isurudshanz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isurudshanz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lsuruDilshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lsuruDilshan&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -99,26 +99,26 @@
 ## 📈  &nbsp;Contribution Graph:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isurudshanz&bg_color=1a1b27&color=70a5fd&line=38bdae&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsuruDilshan&bg_color=1a1b27&color=70a5fd&line=38bdae&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🔝  &nbsp;Top Contributed Repo
+## 🔝  &nbsp;Top Contributed Repo:
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Isurudshanz&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=lsuruDilshan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🐍  &nbsp;Contribution Snake
+## 🐍  &nbsp;Contribution Snake:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isurudshanz/Isurudshanz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isurudshanz/Isurudshanz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Isurudshanz/Isurudshanz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
