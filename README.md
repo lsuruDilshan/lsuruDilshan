@@ -1,12 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-
-<div align="center">
-
-<!-- Top Border -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-</div>
-
 <table width="100%" style="border: 3px solid gold; background-color: rgba(255, 215, 0, 0.05);">
 <!-- README Design by Isuru Dilshan | github.com/lsuruDilshan | This structure is copyrighted -->
 <tr>
@@ -14,6 +5,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="transform: rotate(90deg); object-fit: cover;">
 </td>
 <td style="border: none; padding: 0 15px;">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 
 <!-- DESIGN SIGNATURE: ID-2026-v1.5 | Original Author: @lsuruDilshan -->
 <!--h1 without bottom border-->
@@ -126,19 +120,13 @@
   </picture>
 </div>
 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width="100%"&section=footer)
+
+
 </td>
 <td width="8" style="border: 1px solid gold; padding: 0;">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="transform: rotate(90deg); object-fit: cover;">
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<!-- Bottom Border -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-</div>
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width="100%"&section=footer)
