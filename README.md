@@ -113,11 +113,11 @@
 ## 👻  &nbsp;Pacman Contribution Graph:
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation eating contributions with progress bar" src="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/github-contribution-grid-snake.svg">
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width="100%"&section=footer)
