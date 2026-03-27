@@ -79,11 +79,11 @@
 ## 📊  &nbsp;GitHub Stats:
 
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lsuruDilshan&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=lsuruDilshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lsuruDilshan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lsuruDilshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 ## 📈  &nbsp;GitHub Analytics:
 
