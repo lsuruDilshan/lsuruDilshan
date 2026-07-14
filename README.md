@@ -14,11 +14,11 @@
 <!-- DESIGN SIGNATURE: ID-2026-v1.5 | Original Author: @lsuruDilshan -->
 <!--h1 without bottom border-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Isuru%20Dilshan%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Assisted%20Product%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Isuru%20Dilshan%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Assisted%20Product & UI/UX%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 <div id="user-content-toc">
   
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Isuru Dilshan</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋 Hi, I'm Isuru — engineering with creativity and code.</h1></summary>
   </ul>
 </div>
 <!--horizontal divider(gradiant)-->
