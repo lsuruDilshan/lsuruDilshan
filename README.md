@@ -8,7 +8,7 @@
 </td>
 <td style="border: none; padding: 0 15px;">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 
 
 <!-- DESIGN SIGNATURE: ID-2026-v1.5 | Original Author: @lsuruDilshan -->
