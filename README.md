@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Wael%20Samer%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
+
 <table width="100%" style="border: 3px solid gold; background-color: rgba(255, 215, 0, 0.05);">
 <!-- README Design by Isuru Dilshan | github.com/lsuruDilshan | This structure is copyrighted -->
 <tr>
