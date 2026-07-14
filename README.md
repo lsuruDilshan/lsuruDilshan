@@ -28,7 +28,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lsuruDilshan&label=Profile%20views&color=0e75b6&style=flat" alt="lsuruDilshan" /> </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI-Augmented+UI/UX &Product+Engineer+🚀;Product-Driven+System+Designer;Dashboard+%26+Field+Force+App+Creator+📊;React+%7C+Node.js+%7C+MongoDB+%7C+Flutter;Engineering+with+Intent+⚙️;Inventing+My+Own+Path+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI-Augmented+UI/UX+Engineer+🚀;Product-Driven+System+Designer;Dashboard+%26+Field+Force+App+Creator+📊;React+%7C+Node.js+%7C+MongoDB+%7C+Flutter;Engineering+with+Intent+⚙️;Inventing+My+Own+Path+✨" alt="Typing SVG" />
 </div>
 
 
