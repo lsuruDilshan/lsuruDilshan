@@ -1,112 +1,78 @@
+<a href="https://www.linkedin.com/in/isuru-dilshan-5940b52b9/"><img width="1584" height="396" alt="Isuru Dilshan" src="./images/isuru-banner.png" />
+</a>
 
+# Hey there! I'm Isuru
 
-<table width="100%" style="border: 3px solid gold; background-color: rgba(255, 215, 0, 0.05);">
-<!-- README Design by Isuru Dilshan | github.com/lsuruDilshan | This structure is copyrighted -->
-<tr>
-<td width="8" style="border: 1px solid gold; padding: 0;">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="transform: rotate(90deg); object-fit: cover;">
-</td>
-<td style="border: none; padding: 0 15px;">
+### 💻 UI/UX Designer | Frontend Development Enthusiast | BSc (Hons) IT Graduate
 
+BSc (Hons) in Information Technology graduate with practical experience in UI/UX design, frontend development, and software interface design. Experienced in creating responsive layouts, interactive prototypes, intuitive dashboards, and user-focused applications. I focus on consistent interface design, practical functionality, and solutions shaped by user needs and business requirements.
 
+As AI becomes an increasingly useful part of software development, I believe thoughtful design and problem-solving remain essential. I enjoy combining creativity, technical understanding, and AI-assisted workflows to build interfaces that are clear, usable, and purposeful.
 
+---
 
-<!-- DESIGN SIGNATURE: ID-2026-v1.5 | Original Author: @lsuruDilshan -->
-<!--h1 without bottom border-->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Isuru%20Dilshan%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Assisted%20Product%20and%20UI/UX%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
-<div id="user-content-toc">
-  
-  <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Hi, I'm Isuru — engineering with creativity and code.</h1></summary>
-  </ul>
-</div>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<h3 align="center">AI Assisted UI/UX & Product Engineer | Inventing My own Path</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lsuruDilshan&label=Profile%20views&color=0e75b6&style=flat" alt="lsuruDilshan" /> </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI-Augmented+UI/UX+Engineer+🚀;Product-Driven+System+Designer;Dashboard+%26+Field+Force+App+Creator+📊;React+%7C+Node.js+%7C+MongoDB+%7C+Flutter;Engineering+with+Intent+⚙️;Inventing+My+Own+Path+✨" alt="Typing SVG" />
-</div>
-
-
-<br> 
+## 📮 Contact's & Social's
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+  <a href="https://www.linkedin.com/in/isuru-dilshan-5940b52b9/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Isuru Dilshan"></a>
+  <a href="https://www.youtube.com/@IsuruDiIshan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: @IsuruDiIshan"></a>
+  <a href="https://github.com/lsuruDilshan"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: lsuruDilshan"></a>
 </p>
+<p align="center"><em>Let’s build something meaningful together.</em></p>
 
-<h2 align="center">About me</h2>
+## 💻 Technology Stack
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+### Languages
 
-<br><br>
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+### Frameworks & Libraries
 
-- 🚀 I build **system-driven applications**, focusing on architecture, logic flow, and product thinking
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-- 🧠 Currently sharpening skills in **Full-Stack Development, System Design, Cloud Concepts, and AI-assisted Engineering**
+### UI Libraries & Styling
 
-- 📊 Working on **Sales & Field Force Management Systems**, analytics dashboards, and performance tracking platforms
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-- 🛠️ Tech I actively use: **React, TypeScript, Flutter, Node.js, MongoDB, Supabase, Python**
+### Build Tools & Package Managers
 
-- 🤖 Strong believer in leveraging **AI as an engineering multiplier**, not a shortcut
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-- 💬 Ask me about **System Architecture, Product Thinking, Dashboard Design, Business Logic Modeling**
+### Version Control & CI/CD
 
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### Cloud & DevOps
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+### AI & Neural Networks
 
-## 🔗  &nbsp;Connect with me:
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000)
 
-<p align="center">
-<a href="https://www.youtube.com/@IsuruDiIshan" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.linkedin.com/in/isuru-dilshan-5940b52b9/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+### Development Tools & IDEs
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 💻  &nbsp;Tech Stack:
-
-<div align="center">
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 📊  &nbsp;GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=lsuruDilshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lsuruDilshan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lsuruDilshan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-## 📈  &nbsp;GitHub Analytics:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lsuruDilshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lsuruDilshan&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 📈  &nbsp;Contribution Graph:
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lsuruDilshan&bg_color=1a1b27&color=70a5fd&line=38bdae&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 ## 👻  &nbsp;Pacman Contribution Graph:
 
@@ -118,12 +84,21 @@
 </picture>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width="100%"&section=footer)
+## 📈 Github Stats & Activity Graph
 
+<!-- <div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lsuruDilshan&theme=highcontrast"
+    width="100%"
+  />
+</div> -->
 
-</td>
-<td width="8" style="border: 1px solid gold; padding: 0;">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="transform: rotate(90deg); object-fit: cover;">
-</td>
-</tr>
-</table>
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## ⏳ Time Invested in Coding
+
+<!--START_SECTION:waka-->
+<!-- WakaTime coding statistics will appear here if you configure the optional integration. -->
+<!--END_SECTION:waka-->
+
+<p align="center"><em>Thank you for visiting my profile!</em></p>
