@@ -1,5 +1,8 @@
-<a href="https://www.linkedin.com/in/isuru-dilshan-5940b52b9/"><img width="1584" height="396" alt="Isuru Dilshan" src="./images/isuru-banner.png" />
+
+<a href="https://www.linkedin.com/in/isuru-dilshan-5940b52b9/">
+  <img src="./images/isuru-banner.png" width="100%" alt="Isuru Dilshan - Product Engineer" />
 </a>
+
 
 # Hey there! I'm Isuru
 
