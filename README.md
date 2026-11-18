@@ -23,7 +23,10 @@ As AI becomes an increasingly useful part of software development, I believe tho
 </p>
 <p align="center"><em>Let’s build something meaningful together.</em></p>
 
+
 ## 💻 Technology Stack
+
+<div align="center">
 
 ### Languages
 
@@ -74,6 +77,9 @@ As AI becomes an increasingly useful part of software development, I believe tho
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
 
 ---
 
