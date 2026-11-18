@@ -18,8 +18,6 @@ As AI becomes an increasingly useful part of software development, I believe tho
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isuru-dilshan-5940b52b9/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Isuru Dilshan"></a>
-  <a href="https://www.youtube.com/@IsuruDiIshan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: @IsuruDiIshan"></a>
-  <a href="https://github.com/lsuruDilshan"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: lsuruDilshan"></a>
 </p>
 <p align="center"><em>Let’s build something meaningful together.</em></p>
 
