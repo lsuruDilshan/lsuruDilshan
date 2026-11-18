@@ -1,49 +1,33 @@
+
 {
-  "name": "alexfrxx",
+  "name": "isuru-dilshan",
   "version": "1.0.0",
-  "description": "Frontend Developer | UI & UX Enthusiast",
+  "private": true,
+  "description": "Product Engineer | UI/UX Design | Frontend Development | BSc (Hons) IT Graduate",
   "keywords": [
-    "front-end",
-    "alexfrxx",
-    "aleksandr-frolov",
-    "portfolio",
-    "full-stack",
+    "isuru-dilshan",
+    "product-engineering",
+    "product-design",
+    "ui-ux",
+    "frontend-development",
+    "javascript",
+    "typescript",
     "html",
     "css",
-    "scss",
-    "webpack",
-    "vite",
-    "nextjs",
     "react",
-    "nodejs",
-    "typescript",
-    "javascript"
+    "flutter",
+    "python",
+    "figma",
+    "ai-assisted-development"
   ],
-  "homepage": "https://github.com/alexfrxx",
+  "homepage": "https://github.com/lsuruDilshan",
   "author": {
-    "name": "Aleksandr Frolov",
-    "email": "fr.280907@gmail.com",
-    "url": "https://alexfrxx.github.io/MyCV/"
+    "name": "Isuru Dilshan",
+    "url": "https://github.com/lsuruDilshan"
   },
-  "contributors": [
-    {
-      "name": "Aleksandr Frolov",
-      "email": "fr.280907@gmail.com",
-      "url": "https://github.com/alexfrxx"
-    }
-  ],
   "social": {
-    "linkedin": "https://www.linkedin.com/in/AleksandrFrolov2809",
-    "twitter": "https://x.com/AleksandrFr2007",
-    "instagram": "https://bit.ly/alexfrxx",
-    "telegram": "https://t.me/alexFrxx",
-    "github": "https://github.com/alexfrxx",
-    "website": "https://alexfrxx.github.io/MyCV/"
-  },
-  "funding": [
-    {
-      "type": "website",
-      "url": "https://alexfrxx.github.io/MyCV/"
-    }
-  ]
+    "linkedin": "https://www.linkedin.com/in/isuru-dilshan-5940b52b9/",
+    "youtube": "https://www.youtube.com/@IsuruDiIshan",
+    "github": "https://github.com/lsuruDilshan"
+  }
 }
