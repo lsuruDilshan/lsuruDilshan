@@ -6,7 +6,7 @@
 
 # Hey there! I'm Isuru
 
-### ### 💻 Product Engineer | Digital Product Development | BSc (Hons) IT Graduate
+### 💻 Product Engineer | Digital Product Development | BSc (Hons) IT Graduate
 
 BSc (Hons) in Information Technology graduate with practical experience in digital product development, system analysis, UI/UX design, and frontend implementation. Experienced in translating business requirements into functional workflows, designing intuitive interfaces, and contributing to software solutions that address real-world needs. Focused on combining technical understanding, product thinking, and user-centered design to create practical and meaningful digital experiences.
 
