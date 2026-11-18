@@ -6,11 +6,11 @@
 
 # Hey there! I'm Isuru
 
-### 💻 UI/UX Designer | Frontend Development Enthusiast | BSc (Hons) IT Graduate
+### ### 💻 Product Engineer | Digital Product Development | BSc (Hons) IT Graduate
 
-BSc (Hons) in Information Technology graduate with practical experience in UI/UX design, frontend development, and software interface design. Experienced in creating responsive layouts, interactive prototypes, intuitive dashboards, and user-focused applications. I focus on consistent interface design, practical functionality, and solutions shaped by user needs and business requirements.
+BSc (Hons) in Information Technology graduate with practical experience in digital product development, system analysis, UI/UX design, and frontend implementation. Experienced in translating business requirements into functional workflows, designing intuitive interfaces, and contributing to software solutions that address real-world needs. Focused on combining technical understanding, product thinking, and user-centered design to create practical and meaningful digital experiences.
 
-As AI becomes an increasingly useful part of software development, I believe thoughtful design and problem-solving remain essential. I enjoy combining creativity, technical understanding, and AI-assisted workflows to build interfaces that are clear, usable, and purposeful.
+As AI continues to transform software development, I believe effective engineering goes beyond writing code. It requires understanding problems, making thoughtful decisions, and designing solutions with purpose. I embrace AI-assisted development as a way to enhance creativity, efficiency, and problem-solving while keeping human judgment, usability, and product value at the center.
 
 ---
 
