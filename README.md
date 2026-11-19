@@ -1,3 +1,8 @@
+<!-- DESIGN SIGNATURE: ID-2026-v1.5 | Original Author: @lsuruDilshan -->
+<!--h1 without bottom border-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Isuru%20Dilshan%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Assisted%20Product%20and%20UI/UX%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<div id="user-content-toc">
 
 <a href="https://www.linkedin.com/in/isuru-dilshan-5940b52b9/">
   <img src="./images/isuru-banner.png" width="100%" alt="Isuru Dilshan - Product Engineer" />
